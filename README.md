@@ -14,5 +14,4 @@
 
 ## Android 6.0.1 Framework Module for Nexus 5
 
-https://github.com/SBUNetSys/platform_frameworks_base
 [SBUNetSys/Hammerhead_framework](https://github.com/SBUNetSys/platform_frameworks_base)
